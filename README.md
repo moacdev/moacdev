@@ -23,9 +23,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
 **I'm an Early 🐤** 
 
 ```text
@@ -64,9 +61,8 @@
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Yes | Yes | Yes | Yes | Yes | 6+ 🤣 |
 
-
 <br />
 
 Thanks! :heart:
 
-<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
+<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" />
