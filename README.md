@@ -9,8 +9,8 @@
 - 👨🏻‍💻 Developer with more then 5 years experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
-- 🤝 I’m looking to collaborate with other content creators
-- 🎤 Giving talks at events on topics related to technology, solware development, and company culture
+- 🤝 I’m looking forward to collaborate with others
+- 🎤 Giving talks at events on topics related to technology, software development, and company culture
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mohamed-a-cisse-5a5149218/)
 - 😄 Pronouns: He/Him
 
@@ -41,10 +41,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-00ADD8?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-00ADD8?style=for-the-badge&logo=css&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=python&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/AWS-00ADD8?style=for-the-badge&logo=aws&logoColor=white)]()
-[![Nodejs](https://img.shields.io/badge/Nodejs-00ADD8?style=for-the-badge&logo=nodejs&logoColor=white)]()
-[![Nextjs](https://img.shields.io/badge/Nextjs-00ADD8?style=for-the-badge&logo=nextjs&logoColor=white)]()
-[![Nestjs](https://img.shields.io/badge/Nestjs-00ADD8?style=for-the-badge&logo=nestjs&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/Amazon-00ADD8?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
+[![NodeJS](https://img.shields.io/badge/NodeJS-00ADD8?style=for-the-badge&logo=nodejs&logoColor=white)]()
+[![NextJS](https://img.shields.io/badge/NextJS-00ADD8?style=for-the-badge&logo=nextjs&logoColor=white)]()
+[![NestJS](https://img.shields.io/badge/NestJS-00ADD8?style=for-the-badge&logo=nestjs&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
