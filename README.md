@@ -98,7 +98,7 @@
 <img src="https://imgur.com/rilHVxA.png"/> 
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px" height="400px"/>
+<img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja.gif" width="512px" height="400px"/>
 
 ## 🌏 Browser Support
 
