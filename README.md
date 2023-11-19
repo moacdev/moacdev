@@ -26,13 +26,16 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌆 Daytime                       ███████████░░░░░░░░░░░░░░   44.83 % 
-🌃 Evening                       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-🌙 Night                         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌞 Morning                   ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌆 Daytime                   ███████████░░░░░░░░░░░░░░   44.83 % 
+🌃 Evening                   ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌙 Night                     █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
 ```
 
-
+<br>
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -59,6 +62,8 @@
 ```
 <img src="https://imgur.com/rilHVxA.png"/> 
 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px" height="400px"/>
 
 ## 🌏 Browser Support
 
@@ -70,6 +75,13 @@
 
 <br />
 
-Thanks! :heart:
 
+<br>
+ <p align="center">
+    <a href="https://www.buymeacoffee.com/astrogeek77"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
+    <br>
+    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
+ </p>
+ Thanks! :heart:
 <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" />
+
