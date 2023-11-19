@@ -54,11 +54,6 @@
    <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=amber" />
 </p>
 
-<br>
-<p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
 
 ---
 
