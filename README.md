@@ -34,22 +34,29 @@
 
 
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-00ADD8?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-00ADD8?style=for-the-badge&logo=react&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML-00ADD8?style=for-the-badge&logo=html&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-00ADD8?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-00ADD8?style=for-the-badge&logo=css&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=python&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/Amazon-00ADD8?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
-[![NodeJS](https://img.shields.io/badge/NodeJS-00ADD8?style=for-the-badge&logo=nodejs&logoColor=white)]()
-[![NextJS](https://img.shields.io/badge/NextJS-00ADD8?style=for-the-badge&logo=nextjs&logoColor=white)]()
-[![NestJS](https://img.shields.io/badge/NestJS-00ADD8?style=for-the-badge&logo=nestjs&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&logoColor=1572B6)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
+![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=flat&logo=Internet-Of-Things&logoColor=007ACC)&nbsp;
+![Embedded System](https://img.shields.io/badge/-Embedded%20System-05122A?style=flat&logo=Embedded-System&logoColor=1572B6)&nbsp;
+![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;\
 
-
+```
+ “Success isn't about how much money you make. It's about the difference you make in people's lives.” ― Michelle Obama
+```
 <img src="https://imgur.com/rilHVxA.png"/> 
 
 
