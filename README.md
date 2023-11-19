@@ -1,15 +1,15 @@
-# Hi there, I'm <a href="#" target="_blank">Mohamed</a> - aka Moacdev <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Mohamed - aka <a href="#" target="_blank">moacdev</a> <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, cloud & database specialist💪
+ I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, cloud & database specialist💪
 
 ### Experience includes (but is not limited to):
 
 - 👨🏻‍💻 Developer with more then 5 years experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
-- 🤝 I’m looking forward to collaborate with others
+- 🤝 I’m looking forward to collaborate with others techcos^^
 - 🎤 Giving talks at events on topics related to technology, software development, and company culture
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mohamed-a-cisse-5a5149218/)
 - 😄 Pronouns: He/Him
@@ -54,6 +54,12 @@
    <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=amber" />
 </p>
 
+<br>
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+
 ---
 
 **I'm an Early 🐤** 
@@ -64,11 +70,6 @@
 🌃 Evening                   ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 🌙 Night                     █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
 ```
-
-<br>
-<p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
 
 
 
