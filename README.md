@@ -39,28 +39,13 @@
 
 ## 🔥 Tech Stack
 
-![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&logoColor=white&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&logoColor=white)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=for-the-badge&logo=pycharm&logoColor=007ACC&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&logoColor=1572B6&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=Azure&logoColor=1572B6&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=for-the-badge&logo=Internet-Of-Things&logoColor=007ACC&logoColor=white)&nbsp;
-![Embedded System](https://img.shields.io/badge/-Embedded%20System-05122A?style=for-the-badge&logo=Embedded-System&logoColor=1572B6&logoColor=white)&nbsp;
-![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=for-the-badge&logo=Web-Development&logoColor=007ACC&logoColor=white)&nbsp;\
-
 <p>
+   <img alt="NextJs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -83,6 +68,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&logoColor=white&logoColor=white" />
 </p>
 
 <details>
