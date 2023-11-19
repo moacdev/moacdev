@@ -18,6 +18,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-a-cisse-5a5149218/)
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moacdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Moacdev)
+[![Discord](https://img.shields.io/badge/Discord-00110011?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/478658940737945601)
 
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
@@ -80,9 +81,11 @@
 
 </details>
 
-```
- “Success isn't about how much money you make. It's about the difference you make in people's lives.” ― Michelle Obama
-```
+<br>
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
 <img src="https://imgur.com/rilHVxA.png"/> 
 
 ### 😂Random Dev Meme
