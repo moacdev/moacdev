@@ -20,7 +20,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Moacdev)
 [![Discord](https://img.shields.io/badge/Discord-5964f4?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/478658940737945601)
 
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2022-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
 ## 🔥 Tech Stack
 
